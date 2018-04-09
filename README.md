@@ -1,1 +1,3 @@
-# spring-boot-hello-world
+# spring-boot-example
+
+Hello World Spring Boot Example
